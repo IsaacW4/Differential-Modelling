@@ -1,0 +1,5 @@
+dependencies:
+  - matplotlib
+  - numpy
+  - scipy
+  - python=3.8.8
